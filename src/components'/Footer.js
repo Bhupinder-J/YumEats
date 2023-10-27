@@ -13,10 +13,11 @@ const Footer = () => {
             <div className='py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300'>
                 <div>
                     <h1 className='w-full text-3xl font-bold text-orange-500'> YumEats </h1>
+                    <p> -BhupinderJ</p>
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
                         molestiae delectus culpa hic assumenda, voluptate reprehenderit
-                        dolore autem cum ullam sed odit perspiciatis. 
+                        dolore autem cum ullam sed odit perspiciatis.
                     </p>
                     <div className='flex justify-between md:w-[75%] my-6'>
                         <FaFacebookSquare size={30} />
